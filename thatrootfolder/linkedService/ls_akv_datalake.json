@@ -1,0 +1,10 @@
+{
+	"name": "ls_akv_datalake",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://akv-mykeystorageac.vault.azure.net/secrets/secret-storagemohitsa/9c859dd7b8c14cf58a7786aa73fb980e"
+		}
+	}
+}
