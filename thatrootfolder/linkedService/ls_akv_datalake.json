@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "AzureKeyVault",
 		"typeProperties": {
-			"baseUrl": "https://akv-mykeystorageac.vault.azure.net/secrets/secret-storagemohitsa/9c859dd7b8c14cf58a7786aa73fb980e"
+			"baseUrl": "https://akv-mykeystorageac.vault.azure.net/secrets/akvdatalake/00ecc0d428cf4298a3465b91a2684b4c"
 		}
 	}
 }
